@@ -21,6 +21,6 @@ The following **bonus** features are implemented:
 - [ ] User can load past posts infinitely. (2pts)
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
-<img src='https://i.imgur.com/BWQunow.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/ZbhZcZ6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
